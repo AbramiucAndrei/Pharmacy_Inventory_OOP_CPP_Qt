@@ -1,0 +1,7 @@
+Paracetamol;Terapia;Paracetamol;10
+Ibuprofen;Zentiva;Ibuprofen;16
+Nurofen;Reckitt Benckiser;Ibuprofen;20
+Algocalmin;Terapia;Metamizol;8
+Aspirin;Bayer;Acid acetilsalicilic;12
+Dicarbocalm;Gedeon Richter;Carbonat de calciu;18
+Faringosept;Terapia;Ambazona;7
